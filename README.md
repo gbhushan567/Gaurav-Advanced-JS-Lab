@@ -1,2 +1,2 @@
-# Swabhiman-Advanced-JS-Lab
+# Gaurav-Advanced-JS-Lab
 Weather app
