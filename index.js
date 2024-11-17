@@ -12,7 +12,7 @@ inputCity.addEventListener('keypress', ( e ) => {
 // API call : api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
 const api = {
     url: "https://api.openweathermap.org/data/2.5/weather?q=",
-    key: "00b00fbf95d89cb418b5a11b1788bd5d"
+    key: ""
 };
 
 function getResults( cityName ) {
